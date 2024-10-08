@@ -7,7 +7,7 @@ Bu proje, California konut fiyatlarının tahmin edilmesi amacıyla oluşturulmu
 Proje için gerekli kütüphanelerin yüklenmesi gerekmektedir. Aşağıdaki komutları kullanarak gerekli kütüphaneleri yükleyebilirsiniz:
 pip install scikit-learn tensorflow pandas
 
-# Modelin Mimarisi
+# Modelin Mimarisi 
 Bu projede, Functional API kullanılarak iki farklı girdi katmanı olan bir sinir ağı modeli inşa edilmiştir. Modelin mimarisi aşağıdaki gibidir:
 <ul>
   <li><b>Input Layer:</b>"input_wide" 5, "input_deep" 6 özelliği alır.</li>
